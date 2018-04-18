@@ -1,0 +1,75 @@
+# encoding: UTF-8
+
+he:
+  numbers:
+    ones: [ אפס , אחד, שניים, שלושה, ארבעה, חמישה, שישה , שבעה, שמונה, תשעה, עשרה ]
+    teens: [_, אחד עשר, שניים עשר, שלושה עשר, ארבעה עשר, חמישה עשר, שישה עשר, שבעה עשר, שמונה עשר, תשעה עשר]
+    tens: [_, עשרים, שלושים, ארבעים, חמישים, שישים, שבעים, שמונים, תשעים]
+    hundreds: מאה
+    mega: [_, אלף, מיליון, מיליארד, trillion, quadrillion, quintillion, sextillion, septillion, octillion, nonillion, decillion, undecillion, duodecillion, tredecillion, quattuordecillion]
+    ordinal:
+      ones: [zeroth, first, second, third, fourth, fifth, sixth, seventh, eighth, ninth]
+      teens: [tenth, eleventh, twelfth, thirteenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth, nineteenth]
+      tens: [_, tenth, twentieth, thirtieth, fortieth, fiftieth, sixtieth, seventieth, eightieth, ninetieth]
+      hundreds: hundredth
+      mega: [_, thousandth, millionth, billionth, trillionth, quadrillionth, quintillionth, sextillionth, septillionth, octillionth, nonillionth, decillionth, undecillionth, duodecillionth, tredecillionth, quattuordecillionth]
+    micro: [_, tenths, hundredths, thousandths, millionths, billionths, trillionths, quadrillionths, quintillionths, sextillionths, septillionths, octillionths, nonillionths, decillionths, undecillionths, duodecillionths, tredecillionths, quattuordecillionths]
+    tenths:
+      one: tenth
+      other: tenths
+    hundredths:
+      one: hundredth
+      other: hundredths
+    thousandths:
+      one: thousandth
+      other: thousandths
+    millionths:
+      one: millionth
+      other: millionths
+    billionths:
+      one: billionth
+      other: billionths
+    trillionths:
+      one: trillionth
+      other: trillionths
+    quadrillionths:
+      one: quadrillionth
+      other: quadrillionths
+    quintillionths:
+      one: quintillionth
+      other: quintillionths
+    sextillionths:
+      one: sextillionth
+      other: sextillionths
+    septillionths:
+      one: septillionth
+      other: septillionths
+    octillionths:
+      one: octillionth
+      other: octillionths
+    nonillionths:
+      one: nonillionth
+      other: nonillionths
+    decillionths:
+      one: decillionth
+      other: decillionths
+    undecillionths:
+      one: undecillionth
+      other: undecillionths
+    duodecillionths:
+      one: duodecillionth
+      other: duodecillionths
+    tredecillionths:
+      one: tredecillionth
+      other: tredecillionths
+    quattuordecillionths:
+      one: quattuordecillionth
+      other: quattuordecillionths
+    micro_separator: ו
+    micro_prefix:
+      tens: עשרות
+      hundreds: מאות
+      thousands: אלפים
+      union: '-'
+    union: ו
+    
